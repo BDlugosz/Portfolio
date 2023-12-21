@@ -35,4 +35,6 @@ Below I'll outline my testing journey :D
 • TestLink
 
 • Postman
+# Blogs
+• testerzy.pl
 
